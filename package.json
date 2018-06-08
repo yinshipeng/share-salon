@@ -1,0 +1,19 @@
+{
+  "name": "share-salon",
+  "version": "1.0.0",
+  "description": "分享沙龙站点",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinshipeng/share-salon.git"
+  },
+  "author": "yinshipeng@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yinshipeng/share-salon/issues"
+  },
+  "homepage": "https://github.com/yinshipeng/share-salon#readme"
+}
